@@ -209,6 +209,9 @@ def main():
 
   vt=vtAPI()
 
+  '''
+    TODO: make this part less ugly.
+  '''
   if not options.url and not options.UrlReport:
     md5 = checkMD5(options.HashPathUrl)
 

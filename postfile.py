@@ -1,4 +1,8 @@
 import httplib, mimetypes
+'''
+        Multi Part Data Helper
+        Retrieved from Virus Total's Public API Page
+'''
 
 def post_multipart(host, selector, fields, files):
     """
