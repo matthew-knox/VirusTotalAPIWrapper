@@ -1,8 +1,6 @@
 # VirusTotalAPIWrapper
 Wrapper for the Virus Total Public API
 
-Generated Usage Details:
-
 usage: virustotal.py [-h] [-s] [-v] [-j] [-r] [-u] [-U] [-i] HashPathUrl
 
 Search and Scan Hashes, URLs and Files and Download from VirusTotal
